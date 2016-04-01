@@ -21,44 +21,29 @@
  */
 
 #include <stdio.h>
-#include <stdbool.h>
 #include <stdint.h>
+#include <stdbool.h>
 #include "ble_advdata.h"
 #include "nordic_common.h"
 #include "softdevice_handler.h"
 #include "bsp.h"
+#include "nrf.h"
+#include "nrf51.h"
 #include "app_timer.h"
+#include "nrf_drv_config.h"
+#include "nrf_drv_rtc.h"
+#include "nrf_drv_clock.h"
 
 #include "boards.h"
 #include "app_util_platform.h"
-#include "app_uart.h"
 #include "app_error.h"
-#include "nrf_drv_twi.h"
 #include "nrf_delay.h"
+#include "user_uart.h"
+#include "user_twi.h"
 
-/*Pins to connect shield. */
-#define ARDUINO_I2C_SCL_PIN 7
-#define ARDUINO_I2C_SDA_PIN 30
+#include "nrf_gpio.h"
 
-/*UART buffer size. */
-#define UART_TX_BUF_SIZE 256
-#define UART_RX_BUF_SIZE 1
-#define NUMBER_OF_SAMPLES 20
-
-/*Common addresses definition for accelereomter. */
-#define MMA7660_ADDR        (0x98U >> 1)
-
-#define MMA7660_REG_XOUT    0x00U
-#define MMA7660_REG_YOUT    0x01U
-#define MMA7660_REG_ZOUT    0x02U
-#define MMA7660_REG_TILT    0x03U
-#define MMA7660_REG_SRST    0x04U
-#define MMA7660_REG_SPCNT   0x05U
-#define MMA7660_REG_INTSU   0x06U
-#define MMA7660_REG_MODE    0x07U
-#define MMA7660_REG_SR      0x08U
-#define MMA7660_REG_PDET    0x09U
-#define MMA7660_REG_PD      0x0AU
+#include "bmp180.h"
 
 
 /*Tilt specific bits*/
@@ -68,9 +53,16 @@
 /* Mode for MMA7660. */
 #define ACTIVE_MODE 1u
 
-/*Failure flag for reading from accelerometer. */
-#define MMA7660_FAILURE_FLAG (1u << 6)
 
+#define LFCLK_FREQUENCY   (32768UL)
+
+#define RTC_FREQUENCY   (8UL)
+
+
+#define COMPARE_COUNTERTIME  (3UL)                                        /**< Get Compare event COMPARE_TIME seconds after the counter starts from 0. */
+
+const nrf_drv_rtc_t rtc = NRF_DRV_RTC_INSTANCE(0); /**< Declaring an instance of nrf_drv_rtc for RTC0. */
+const nrf_drv_twi_t m_twi_instance = NRF_DRV_TWI_INSTANCE(0);
 
 
 #define IS_SRVC_CHANGED_CHARACT_PRESENT 0                                 /**< Include or not the service_changed characteristic. if not enabled, the server's database cannot be changed for the lifetime of the device*/
@@ -95,32 +87,11 @@
 #define APP_TIMER_PRESCALER             0                                 /**< Value of the RTC1 PRESCALER register. */
 #define APP_TIMER_OP_QUEUE_SIZE         4                                 /**< Size of timer operation queues. */
 
-/* Indicates if reading operation from accelerometer has ended. */
-static volatile bool m_xfer_done = true;
-/* Indicates if setting mode operation has ended. */
-static volatile bool m_set_mode_done;
+#define MAJ_VAL_OFFSET_IN_BEACON_INFO   18
 
-static const nrf_drv_twi_t m_twi_mma_7660 = NRF_DRV_TWI_INSTANCE(0);
-
-
-/**
- * @brief Function for casting 6 bit uint to 6 bit int.
- *
- */
-__STATIC_INLINE void int_to_uint(int8_t * put, uint8_t data)
-{
-    if (!(data & MMA7660_FAILURE_FLAG))     //6th bit is failure flag - we cannot read sample
-    {
-        *put = (int8_t)(data << 2) / 4;
-    }
-}
-
-#if defined(USE_UICR_FOR_MAJ_MIN_VALUES)
-#define MAJ_VAL_OFFSET_IN_BEACON_INFO   18                                /**< Position of the MSB of the Major Value in m_beacon_info array. */
-#define UICR_ADDRESS                    0x10001080                        /**< Address of the UICR register used by this example. The major and minor versions to be encoded into the advertising data will be picked up from this location. */
-#endif
 
 static ble_gap_adv_params_t m_adv_params;                                 /**< Parameters to be passed to the stack when starting advertising. */
+
 static uint8_t m_beacon_info[APP_BEACON_INFO_LENGTH] =                    /**< Information advertised by the Beacon. */
 {
     APP_DEVICE_TYPE,     // Manufacturer specific information. Specifies the device type in this 
@@ -133,50 +104,6 @@ static uint8_t m_beacon_info[APP_BEACON_INFO_LENGTH] =                    /**< I
     APP_MEASURED_RSSI    // Manufacturer specific information. The Beacon's measured TX power in 
                          // this implementation. 
 };
-
-/**
- * @brief Structure for holding sum of samples from accelerometer.
- */
-typedef struct
-{
-    int16_t x;
-    int16_t y;
-    int16_t z;
-} sum_t;
-static sum_t m_sum = {0};
-
-/**
- * @brief Union to keep raw and converted data from accelerometer samples at one memory space.
- */
-typedef union{
-    uint8_t raw;
-    int8_t  conv;
-}elem_t;
-
-/**
- * @brief Enum for selecting accelerometer orientation.
- */
-typedef enum{
-    LEFT = 1,
-    RIGHT = 2,
-    DOWN = 5,
-    UP = 6
-}accelerometer_orientation_t;
-
-/**
- * @brief Structure for holding samples from accelerometer.
- */
-typedef struct
-{
-    elem_t  x;
-    elem_t  y;
-    elem_t  z;
-    uint8_t tilt;
-} sample_t;
-
-
-
-static sample_t m_sample_buffer[NUMBER_OF_SAMPLES] = {0};
 
 
 /**@brief Callback function for asserts in the SoftDevice.
@@ -195,6 +122,9 @@ void assert_nrf_callback(uint16_t line_num, const uint8_t * p_file_name)
     app_error_handler(DEAD_BEEF, line_num, p_file_name);
 }
 
+uint16_t major_value = 1;
+uint16_t minor_value = 2;
+
 /**@brief Function for initializing the Advertising functionality.
  *
  * @details Encodes the required advertising data and passes it to the stack.
@@ -210,7 +140,6 @@ static void advertising_init(void)
 
     manuf_specific_data.company_identifier = APP_COMPANY_IDENTIFIER;
 
-#if defined(USE_UICR_FOR_MAJ_MIN_VALUES)
     // If USE_UICR_FOR_MAJ_MIN_VALUES is defined, the major and minor values will be read from the
     // UICR instead of using the default values. The major and minor values obtained from the UICR
     // are encoded into advertising data in big endian order (MSB First).
@@ -220,8 +149,7 @@ static void advertising_init(void)
     // For example, for a major value and minor value of 0xabcd and 0x0102 respectively, the
     // the following command should be used.
     // nrfjprog --snr <Segger-chip-Serial-Number> --memwr 0x10001080 --val 0xabcd0102
-    uint16_t major_value = ((*(uint32_t *)UICR_ADDRESS) & 0xFFFF0000) >> 16;
-    uint16_t minor_value = ((*(uint32_t *)UICR_ADDRESS) & 0x0000FFFF);
+
 
     uint8_t index = MAJ_VAL_OFFSET_IN_BEACON_INFO;
 
@@ -230,7 +158,6 @@ static void advertising_init(void)
 
     m_beacon_info[index++] = MSB_16(minor_value);
     m_beacon_info[index++] = LSB_16(minor_value);
-#endif
 
     manuf_specific_data.data.p_data = (uint8_t *) m_beacon_info;
     manuf_specific_data.data.size   = APP_BEACON_INFO_LENGTH;
@@ -255,71 +182,6 @@ static void advertising_init(void)
     m_adv_params.timeout     = APP_CFG_NON_CONN_ADV_TIMEOUT;
 }
 
-
-/**
- * @brief Function for averaging samples from accelerometer.
- */
-void read_data(sample_t * p_new_sample)
-{
-    /* Variable to count samples. */
-    static uint8_t sample_idx;
-    static uint8_t prev_tilt;
-
-    sample_t * p_sample = &m_sample_buffer[sample_idx];
-
-    /* Subtracting oldest sample. */
-    m_sum.x    -= p_sample->x.conv;
-    m_sum.y    -= p_sample->y.conv;
-    m_sum.z    -= p_sample->z.conv;
-
-    p_sample->tilt = p_new_sample->tilt;
-
-    int_to_uint(&p_sample->x.conv, p_new_sample->x.raw);
-    int_to_uint(&p_sample->y.conv, p_new_sample->y.raw);
-    int_to_uint(&p_sample->z.conv, p_new_sample->z.raw);
-
-    /* Adding new sample. This way we always have defined number of samples. */
-    m_sum.x    += p_sample->x.conv;
-    m_sum.y    += p_sample->y.conv;
-    m_sum.z    += p_sample->z.conv;
-
-    ++sample_idx;
-    if (sample_idx >= NUMBER_OF_SAMPLES)
-    {
-        sample_idx = 0;
-    }
-
-    if (sample_idx == 0 || (prev_tilt && (prev_tilt != p_sample->tilt)))
-    {
-        char const * orientation;
-        switch ((p_sample->tilt >> 2) & 0x07)
-        {
-            case LEFT:
-                orientation = "LEFT";
-                break;
-            case RIGHT:
-                orientation = "RIGHT";
-                break;
-            case DOWN:
-                orientation = "DOWN";
-                break;
-            case UP:
-                orientation = "UP";
-                break;
-            default:
-                orientation = "?";
-                break;
-        }
-        printf("X: %3d, Y: %3d, Z: %3d | %s%s%s\r\n",
-                m_sum.x / NUMBER_OF_SAMPLES,
-                m_sum.y / NUMBER_OF_SAMPLES,
-                m_sum.z / NUMBER_OF_SAMPLES,
-                orientation,
-                (p_sample->tilt & TILT_TAP_MASK) ? " TAP"   : "",
-                (p_sample->tilt & TILT_SHAKE_MASK) ? " SHAKE" : "");
-                prev_tilt = p_sample->tilt;
-    }
-}
 
 
 /**@brief Function for starting advertising.
@@ -366,106 +228,57 @@ static void power_manage(void)
     APP_ERROR_CHECK(err_code);
 }
 
-
-/**
- * @brief UART events handler.
+/** @brief: Function for handling the RTC0 interrupts.
+ * Triggered on TICK and COMPARE0 match.
  */
-static void uart_events_handler(app_uart_evt_t * p_event)
+static void rtc_handler(nrf_drv_rtc_int_type_t int_type)
 {
-    switch (p_event->evt_type)
+    if (int_type == NRF_DRV_RTC_INT_COMPARE0)
     {
-        case APP_UART_COMMUNICATION_ERROR:
-            APP_ERROR_HANDLER(p_event->data.error_communication);
-            break;
+  //  	major_value++;
+  //      printf("NRF_DRV_RTC_INT_COMPARE0 %d \r\n",major_value);
 
-        case APP_UART_FIFO_ERROR:
-            APP_ERROR_HANDLER(p_event->data.error_code);
-            break;
-
-        default:
-            break;
+    }
+    else if (int_type == NRF_DRV_RTC_INT_TICK)
+    {
+  //  	minor_value++;
+  //      printf("NRF_DRV_RTC_INT_TICK %i \r\n", minor_value);
     }
 }
 
 
-/**
- * @brief UART initialization.
+
+/** @brief Function starting the internal LFCLK XTAL oscillator.
  */
-static void uart_config(void)
+static void lfclk_config(void)
+{
+    ret_code_t err_code = nrf_drv_clock_init(NULL);
+
+
+    APP_ERROR_CHECK(err_code);
+
+    nrf_drv_clock_lfclk_request();
+}
+
+/** @brief Function initialization and configuration of RTC driver instance.
+ */
+static void rtc_config(void)
 {
     uint32_t err_code;
-    const app_uart_comm_params_t comm_params =
-    {
-        RX_PIN_NUMBER,
-        TX_PIN_NUMBER,
-        RTS_PIN_NUMBER,
-        CTS_PIN_NUMBER,
-        APP_UART_FLOW_CONTROL_DISABLED,
-        false,
-        UART_BAUDRATE_BAUDRATE_Baud38400
-    };
 
-    APP_UART_FIFO_INIT(&comm_params,
-                       UART_RX_BUF_SIZE,
-                       UART_TX_BUF_SIZE,
-                       uart_events_handler,
-                       APP_IRQ_PRIORITY_LOW,
-                       err_code);
-
-    APP_ERROR_CHECK(err_code);
-}
-
-
-/**
- * @brief TWI events handler.
- */
-void twi_handler(nrf_drv_twi_evt_t const * p_event, void * p_context)
-{
-    ret_code_t err_code;
-    static sample_t m_sample;
-
-    switch(p_event->type)
-    {
-        case NRF_DRV_TWI_RX_DONE:
-            read_data(&m_sample);
-            m_xfer_done = true;
-            break;
-        case NRF_DRV_TWI_TX_DONE:
-            if(m_set_mode_done != true)
-            {
-                m_set_mode_done  = true;
-                return;
-            }
-            m_xfer_done = false;
-            /* Read 4 bytes from the specified address. */
-            err_code = nrf_drv_twi_rx(&m_twi_mma_7660, MMA7660_ADDR, (uint8_t*)&m_sample, sizeof(m_sample), false);
-            APP_ERROR_CHECK(err_code);
-            break;
-        default:
-            break;
-    }
-}
-
-
-
-/**
- * @brief UART initialization.
- */
-void twi_init (void)
-{
-    ret_code_t err_code;
-
-    const nrf_drv_twi_config_t twi_mma_7660_config = {
-       .scl                = ARDUINO_SCL_PIN,
-       .sda                = ARDUINO_SDA_PIN,
-       .frequency          = NRF_TWI_FREQ_100K,
-       .interrupt_priority = APP_IRQ_PRIORITY_HIGH
-    };
-
-    err_code = nrf_drv_twi_init(&m_twi_mma_7660, &twi_mma_7660_config, twi_handler, NULL);
+    //Initialize RTC instance
+    err_code = nrf_drv_rtc_init(&rtc, NULL, rtc_handler);
     APP_ERROR_CHECK(err_code);
 
-    nrf_drv_twi_enable(&m_twi_mma_7660);
+    //Enable tick event & interrupt
+    nrf_drv_rtc_tick_enable(&rtc,true);
+
+    //Set compare channel to trigger interrupt after COMPARE_COUNTERTIME seconds
+    err_code = nrf_drv_rtc_cc_set(&rtc,0,COMPARE_COUNTERTIME,true);
+    APP_ERROR_CHECK(err_code);
+
+    //Power on RTC instance
+    nrf_drv_rtc_enable(&rtc);
 }
 
 /**
@@ -478,23 +291,100 @@ int main(void)
 
     uart_config();
    // int a = __GNUC__, c = __GNUC_PATCHLEVEL__;
-    printf("\n\rTWI sensor example5 \r\n");
-    twi_init();
+    printf("twi_init_a\r\n");
+    twi_init_a(&m_twi_instance);
+
+
+
+//    const uint8_t dummy_data = 0x55; // Declare some dummy data to use for our search for devices on the TWI bus
+//
+//        // Make a loop iterating through all TWI address listening to a response. x
+//        // The response will be reported in twi_event_handler()
+//        for(uint8_t i=0; i < 125; i++)
+//        {
+//            // Send dummy data on TWI buss on address 'i'
+//        	err_code = nrf_drv_twi_tx(&m_twi_instance, i, &dummy_data, 1, false);
+//
+//            // Small delay or the driver might not be able to keep up with the fast transmissions
+//            // There is deffinitely a better way to do this
+//            nrf_delay_ms(5);
+//        }
+
+    printf("bmp180\n");
+    bmp180_init(&m_twi_instance);
+    bmp180_print_calibration_data();
+//    printf("next\r\n");
+//
+//
+//    lfclk_config();
+//
+//    rtc_config();
+//
+//    printf("print\n");
 
     APP_TIMER_INIT(APP_TIMER_PRESCALER, APP_TIMER_OP_QUEUE_SIZE, false);
     err_code = bsp_init(BSP_INIT_LED, APP_TIMER_TICKS(100, APP_TIMER_PRESCALER), NULL);
     APP_ERROR_CHECK(err_code);
     ble_stack_init();
     advertising_init();
-
-
-    // Start execution.
+//
+//
+//    // Start execution.
     advertising_start();
+//
+
+	int t;
+	long pressure;
+    float temperature, altitude;
+
+    ble_advdata_manuf_data_t manuf_specific_data;
+
+    manuf_specific_data.company_identifier = APP_COMPANY_IDENTIFIER;
+    ble_advdata_t advdata;
+       uint8_t       flags = BLE_GAP_ADV_FLAG_BR_EDR_NOT_SUPPORTED;
 
     // Enter main loop.
     for (;; )
     {
+
+    	temperature = bmp180_get_temperature();
+        pressure = bmp180_get_pressure();
+        altitude = bmp180_get_altitude(101.191398);
+
+    	t = (int) temperature;
+//    	a = (int) altitude;
+        printf("temp %i pressure %ld altitude %f \n", t, pressure, altitude);
+
+    	nrf_delay_ms(5000);
+
+
+    	 uint8_t index = MAJ_VAL_OFFSET_IN_BEACON_INFO;
+
+    	    m_beacon_info[index++] = MSB_16(pressure);
+    	    m_beacon_info[index++] = LSB_16(pressure);
+
+    	    m_beacon_info[index++] = MSB_16(minor_value);
+    	    m_beacon_info[index++] = LSB_16(minor_value);
+
+    	    manuf_specific_data.data.p_data = (uint8_t *) m_beacon_info;
+    	    manuf_specific_data.data.size   = APP_BEACON_INFO_LENGTH;
+
+    	    // Build and set advertising data.
+    	    memset(&advdata, 0, sizeof(advdata));
+
+    	    advdata.name_type             = BLE_ADVDATA_NO_NAME;
+    	    advdata.flags                 = flags;
+    	    advdata.p_manuf_specific_data = &manuf_specific_data;
+
+    	    err_code = ble_advdata_set(&advdata, NULL);
+    	    APP_ERROR_CHECK(err_code);
+
+
+    	__SEV();
+    	__WFE();
+    	__WFE();
         power_manage();
+        minor_value++;
     }
 }
 

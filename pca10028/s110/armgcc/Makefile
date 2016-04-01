@@ -38,6 +38,8 @@ remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-ou
 #source common to all targets
 C_SOURCE_FILES += \
 $(abspath ../../../../../bsp/bsp.c) \
+$(abspath ../../../src/uart/user_uart.c) \
+$(abspath ../../../src/twi/user_twi.c) \
 $(abspath ../../../main.c) \
 $(abspath ../../../../../../components/ble/common/ble_advdata.c) \
 $(abspath ../../../../../../components/toolchain/system_nrf51.c) \
@@ -46,12 +48,15 @@ $(abspath ../../../../../../components/libraries/fifo/app_fifo.c) \
 $(abspath ../../../../../../components/libraries/util/app_error.c) \
 $(abspath ../../../../../../components/libraries/timer/app_timer.c) \
 $(abspath ../../../../../../components/libraries/util/nrf_assert.c) \
+$(abspath ../../../../../../components/libraries/trace/app_trace.c) \
 $(abspath ../../../../../../components/ble/common/ble_srv_common.c) \
 $(abspath ../../../../../../components/ble/common/ble_conn_params.c) \
 $(abspath ../../../../../../components/drivers_nrf/delay/nrf_delay.c) \
 $(abspath ../../../../../../components/libraries/button/app_button.c) \
+$(abspath ../../../../../../components/drivers_nrf/rtc/nrf_drv_rtc.c) \
 $(abspath ../../../../../../components/libraries/uart/app_uart_fifo.c) \
 $(abspath ../../../../../../components/drivers_nrf/uart/nrf_drv_uart.c) \
+$(abspath ../../../../../../components/drivers_nrf/clock/nrf_drv_clock.c) \
 $(abspath ../../../../../../components/libraries/util/app_util_platform.c) \
 $(abspath ../../../../../../components/drivers_nrf/gpiote/nrf_drv_gpiote.c) \
 $(abspath ../../../../../../components/drivers_nrf/common/nrf_drv_common.c) \
@@ -64,6 +69,8 @@ ASM_SOURCE_FILES  = $(abspath ../../../../../../components/toolchain/gcc/gcc_sta
 
 #includes common to all targets
 INC_PATHS  = -I$(abspath ../../../config/ble_app_beacon_s110_pca10028)
+INC_PATHS += -I$(abspath ../../../src/uart)
+INC_PATHS += -I$(abspath ../../../src/twi)
 INC_PATHS += -I$(abspath ../../..)
 INC_PATHS += -I$(abspath ../../../config)
 INC_PATHS += -I$(abspath ../../../../../bsp)
@@ -75,10 +82,13 @@ INC_PATHS += -I$(abspath ../../../../../../components/toolchain/gcc)
 INC_PATHS += -I$(abspath ../../../../../../components/libraries/fifo)
 INC_PATHS += -I$(abspath ../../../../../../components/libraries/uart)
 INC_PATHS += -I$(abspath ../../../../../../components/libraries/util)
+INC_PATHS += -I$(abspath ../../../../../../components/drivers_nrf/rtc)
+INC_PATHS += -I$(abspath ../../../../../../components/libraries/trace)
 INC_PATHS += -I$(abspath ../../../../../../components/drivers_nrf/hal)
 INC_PATHS += -I$(abspath ../../../../../../components/libraries/timer)
 INC_PATHS += -I$(abspath ../../../../../../components/libraries/button)
 INC_PATHS += -I$(abspath ../../../../../../components/drivers_nrf/uart)
+INC_PATHS += -I$(abspath ../../../../../../components/drivers_nrf/clock)
 INC_PATHS += -I$(abspath ../../../../../../components/drivers_nrf/delay)
 INC_PATHS += -I$(abspath ../../../../../../components/drivers_nrf/gpiote)
 INC_PATHS += -I$(abspath ../../../../../../components/drivers_nrf/config)

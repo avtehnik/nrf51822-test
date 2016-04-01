@@ -1,2 +1,3 @@
-Documentation can be found offline at: <keil_location>/ARM/Pack/NordicSemiconductor//10.0.0/documentation
-Documentation can be found online at: http://developer.nordicsemi.com/nRF51_SDK/doc/
+openocd -f /Users/vitaliy/work/nRF51/nRF51_SDK_10.0.0_dc26b5e/openocd.cfg -c "init; reset halt; nrf51 mass_erase; program /Users/vitaliy/work/nRF51/nRF51_SDK_10.0.0_dc26b5e/examples/ble_peripheral/smart_cup/hex/ble_app_beacon_s130_pca10028.hex; program /Users/vitaliy/work/nRF51/nRF51_SDK_10.0.0_dc26b5e/examples/ble_peripheral/smart_cup/pca10028/s110/armgcc/_build/nrf51422_xxac_s110.hex reset; continue "
+
+openocd -f /Users/vitaliy/work/nRF51/nRF51_SDK_10.0.0_dc26b5e/openocd.cfg -c "init; reset halt; nrf51 mass_erase; program /Users/vitaliy/work/nRF51/nRF51_SDK_10.0.0_dc26b5e/examples/ble_peripheral/smart_cup/hex/ble_app_beacon_s130_pca10028.hex  reset; continue "

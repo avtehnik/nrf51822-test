@@ -1,0 +1,1959 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o) (_exit)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o)
+                              _build/bmp180.o (powf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (__ieee754_powf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_sqrt.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o) (__ieee754_sqrtf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (__fdlib_version)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (matherr)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (rint)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fabs.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o) (fabsf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_finite.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (finitef)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fpclassify.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (__fpclassifyf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_nan.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o) (nanf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_scalbn.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o) (scalbnf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_copysign.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_scalbn.o) (copysignf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+                              _build/bsp.o (__aeabi_uidiv)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_divsi3.o)
+                              _build/bmp180.o (__aeabi_idiv)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpdf2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (__aeabi_dcmpeq)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (__aeabi_fcmpeq)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o) (__aeabi_fadd)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divsf3.o)
+                              _build/bmp180.o (__aeabi_fdiv)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqsf2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gesf2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpsf2.o) (__gesf2)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(lesf2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpsf2.o) (__lesf2)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (__aeabi_fmul)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subsf3.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o) (__aeabi_fsub)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+                              _build/main.o (__aeabi_f2iz)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+                              _build/bmp180.o (__aeabi_i2f)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(adddf3.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o) (__aeabi_dadd)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divdf3.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (__aeabi_ddiv)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqdf2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpdf2.o) (__eqdf2)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gedf2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpdf2.o) (__gedf2)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(ledf2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpdf2.o) (__ledf2)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+                              _build/bmp180.o (__aeabi_dmul)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subdf3.o)
+                              _build/bmp180.o (__aeabi_dsub)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(extendsfdf2.o)
+                              _build/main.o (__aeabi_f2d)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(truncdfsf2.o)
+                              _build/bmp180.o (__aeabi_d2f)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o) (__clzsi2)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o) (__errno)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+                              _build/ble_advdata.o (memcpy)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o)
+                              _build/user_uart.o (printf)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+                              _build/ble_srv_common.o (strlen)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o) (__sinit)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fwalk.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o) (_fwalk)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o) (_malloc_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o) (_vfprintf_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o) (__sread)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wbuf.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-writer.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o) (_write_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-closer.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o) (_close_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o) (_fflush_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-lseekr.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o) (_lseek_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o) (memmove)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o) (_free_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-readr.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o) (_read_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o) (errno)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fstatr.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-isattyr.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-closer.o) (_close)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(fstat.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fstatr.o) (_fstat)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(isatty.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-isattyr.o) (_isatty)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(lseek.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-lseekr.o) (_lseek)
+/Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+                              /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+AcceptableTemperatureLatencyForPressure
+                    0x2               _build/bmp180.o
+LastTemperatureData
+                    0x2               _build/bmp180.o
+ConversionWaitTimeMs
+                    0x2               _build/bmp180.o
+errno               0x4               /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+IsConnected         0x1               _build/bmp180.o
+LastTemperatureTime
+                    0x2               _build/bmp180.o
+Calibration_AC6     0x4               _build/bmp180.o
+Oversample          0x1               _build/bmp180.o
+__stdin             0x68              _build/retarget.o
+Calibration_MB      0x2               _build/bmp180.o
+Calibration_MD      0x2               _build/bmp180.o
+Calibration_AC5     0x4               _build/bmp180.o
+Calibration_B2      0x2               _build/bmp180.o
+Calibration_AC2     0x2               _build/bmp180.o
+Calibration_AC1     0x2               _build/bmp180.o
+Calibration_AC3     0x2               _build/bmp180.o
+OversamplingSetting
+                    0x1               _build/bmp180.o
+__stdout            0x68              _build/retarget.o
+Calibration_MC      0x2               _build/bmp180.o
+Calibration_B1      0x2               _build/bmp180.o
+Calibration_AC4     0x4               _build/bmp180.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .data          0x0000000000000000        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 _build/bsp.o
+ .data          0x0000000000000000        0x0 _build/bsp.o
+ .bss           0x0000000000000000        0x0 _build/bsp.o
+ .text.bsp_buttons_state_get
+                0x0000000000000000       0x40 _build/bsp.o
+ .text.bsp_button_is_pressed
+                0x0000000000000000       0x2c _build/bsp.o
+ .text.bsp_indication_text_set
+                0x0000000000000000      0x394 _build/bsp.o
+ .rodata.bsp_indication_text_set
+                0x0000000000000000       0x60 _build/bsp.o
+ .text.bsp_event_to_button_action_assign
+                0x0000000000000000       0x58 _build/bsp.o
+ .text.bsp_buttons_enable
+                0x0000000000000000        0x8 _build/bsp.o
+ .text.bsp_buttons_disable
+                0x0000000000000000        0x8 _build/bsp.o
+ .text.bsp_wakeup_buttons_set
+                0x0000000000000000       0x8c _build/bsp.o
+ .rodata.m_buttons_list
+                0x0000000000000000       0x10 _build/bsp.o
+ .text          0x0000000000000000        0x0 _build/user_uart.o
+ .data          0x0000000000000000        0x0 _build/user_uart.o
+ .bss           0x0000000000000000        0x0 _build/user_uart.o
+ .text          0x0000000000000000        0x0 _build/user_twi.o
+ .data          0x0000000000000000        0x0 _build/user_twi.o
+ .bss           0x0000000000000000        0x0 _build/user_twi.o
+ .text          0x0000000000000000        0x0 _build/main.o
+ .data          0x0000000000000000        0x0 _build/main.o
+ .bss           0x0000000000000000        0x0 _build/main.o
+ .rodata.rtc    0x0000000000000000        0x8 _build/main.o
+ .text          0x0000000000000000        0x0 _build/ble_advdata.o
+ .data          0x0000000000000000        0x0 _build/ble_advdata.o
+ .bss           0x0000000000000000        0x0 _build/ble_advdata.o
+ .text          0x0000000000000000        0x0 _build/system_nrf51.o
+ .data          0x0000000000000000        0x0 _build/system_nrf51.o
+ .bss           0x0000000000000000        0x0 _build/system_nrf51.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x10 _build/system_nrf51.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 _build/system_nrf51.o
+ .text          0x0000000000000000        0x0 _build/retarget.o
+ .data          0x0000000000000000        0x0 _build/retarget.o
+ .bss           0x0000000000000000        0x0 _build/retarget.o
+ COMMON         0x0000000000000000       0xd0 _build/retarget.o
+ .text          0x0000000000000000        0x0 _build/app_fifo.o
+ .data          0x0000000000000000        0x0 _build/app_fifo.o
+ .bss           0x0000000000000000        0x0 _build/app_fifo.o
+ .text.app_fifo_flush
+                0x0000000000000000        0x8 _build/app_fifo.o
+ .text.app_fifo_read
+                0x0000000000000000       0x50 _build/app_fifo.o
+ .text.app_fifo_write
+                0x0000000000000000       0x54 _build/app_fifo.o
+ .text          0x0000000000000000        0x0 _build/app_error.o
+ .data          0x0000000000000000        0x0 _build/app_error.o
+ .bss           0x0000000000000000        0x0 _build/app_error.o
+ .text          0x0000000000000000        0x0 _build/app_timer.o
+ .data          0x0000000000000000        0x0 _build/app_timer.o
+ .bss           0x0000000000000000        0x0 _build/app_timer.o
+ .text.app_timer_stop_all
+                0x0000000000000000       0xc4 _build/app_timer.o
+ .text.app_timer_cnt_get
+                0x0000000000000000       0x14 _build/app_timer.o
+ .text.app_timer_cnt_diff_compute
+                0x0000000000000000        0xc _build/app_timer.o
+ .text          0x0000000000000000        0x0 _build/nrf_assert.o
+ .data          0x0000000000000000        0x0 _build/nrf_assert.o
+ .bss           0x0000000000000000        0x0 _build/nrf_assert.o
+ .comment       0x0000000000000000       0x6f _build/nrf_assert.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/nrf_assert.o
+ .text          0x0000000000000000        0x0 _build/app_trace.o
+ .data          0x0000000000000000        0x0 _build/app_trace.o
+ .bss           0x0000000000000000        0x0 _build/app_trace.o
+ .comment       0x0000000000000000       0x6f _build/app_trace.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/app_trace.o
+ .text          0x0000000000000000        0x0 _build/ble_srv_common.o
+ .data          0x0000000000000000        0x0 _build/ble_srv_common.o
+ .bss           0x0000000000000000        0x0 _build/ble_srv_common.o
+ .text.sd_ble_gatts_characteristic_add
+                0x0000000000000000        0x4 _build/ble_srv_common.o
+ .text.sd_ble_gatts_descriptor_add
+                0x0000000000000000        0x4 _build/ble_srv_common.o
+ .text.ble_srv_report_ref_encode
+                0x0000000000000000        0xc _build/ble_srv_common.o
+ .text.ble_srv_ascii_to_utf8
+                0x0000000000000000       0x14 _build/ble_srv_common.o
+ .text.characteristic_add
+                0x0000000000000000      0x368 _build/ble_srv_common.o
+ .rodata.characteristic_add
+                0x0000000000000000       0x78 _build/ble_srv_common.o
+ .text.descriptor_add
+                0x0000000000000000      0x15c _build/ble_srv_common.o
+ .rodata.descriptor_add
+                0x0000000000000000       0x30 _build/ble_srv_common.o
+ .comment       0x0000000000000000       0x6f _build/ble_srv_common.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_srv_common.o
+ .text          0x0000000000000000        0x0 _build/ble_conn_params.o
+ .data          0x0000000000000000        0x0 _build/ble_conn_params.o
+ .bss           0x0000000000000000        0x0 _build/ble_conn_params.o
+ .text.sd_ble_gap_conn_param_update
+                0x0000000000000000        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_disconnect
+                0x0000000000000000        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_ppcp_set
+                0x0000000000000000        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_ppcp_get
+                0x0000000000000000        0x4 _build/ble_conn_params.o
+ .text.update_timeout_handler
+                0x0000000000000000       0x78 _build/ble_conn_params.o
+ .text.conn_params_negotiation
+                0x0000000000000000       0x88 _build/ble_conn_params.o
+ .text.ble_conn_params_init
+                0x0000000000000000       0x78 _build/ble_conn_params.o
+ .text.ble_conn_params_stop
+                0x0000000000000000       0x10 _build/ble_conn_params.o
+ .text.ble_conn_params_on_ble_evt
+                0x0000000000000000       0xac _build/ble_conn_params.o
+ .text.ble_conn_params_change_conn_params
+                0x0000000000000000       0x70 _build/ble_conn_params.o
+ .bss.m_change_param
+                0x0000000000000000        0x1 _build/ble_conn_params.o
+ .bss.m_current_conn_params
+                0x0000000000000000        0x8 _build/ble_conn_params.o
+ .bss.m_update_count
+                0x0000000000000000        0x1 _build/ble_conn_params.o
+ .bss.m_conn_params_config
+                0x0000000000000000       0x1c _build/ble_conn_params.o
+ .bss.m_conn_params_timer_id_data
+                0x0000000000000000       0x20 _build/ble_conn_params.o
+ .rodata.m_conn_params_timer_id
+                0x0000000000000000        0x4 _build/ble_conn_params.o
+ .bss.m_conn_handle
+                0x0000000000000000        0x2 _build/ble_conn_params.o
+ .bss.m_preferred_conn_params
+                0x0000000000000000        0x8 _build/ble_conn_params.o
+ .comment       0x0000000000000000       0x6f _build/ble_conn_params.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_conn_params.o
+ .text          0x0000000000000000        0x0 _build/nrf_delay.o
+ .data          0x0000000000000000        0x0 _build/nrf_delay.o
+ .bss           0x0000000000000000        0x0 _build/nrf_delay.o
+ .text          0x0000000000000000        0x0 _build/app_button.o
+ .data          0x0000000000000000        0x0 _build/app_button.o
+ .bss           0x0000000000000000        0x0 _build/app_button.o
+ .text.app_button_disable
+                0x0000000000000000       0x34 _build/app_button.o
+ .text.app_button_is_pushed
+                0x0000000000000000       0x2c _build/app_button.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_rtc.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_rtc.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_init
+                0x0000000000000000       0x6c _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_uninit
+                0x0000000000000000       0x44 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_enable
+                0x0000000000000000       0x18 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_disable
+                0x0000000000000000       0x18 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_cc_disable
+                0x0000000000000000       0x40 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_cc_set
+                0x0000000000000000       0xc4 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_tick_enable
+                0x0000000000000000       0x24 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_tick_disable
+                0x0000000000000000       0x14 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_overflow_enable
+                0x0000000000000000       0x24 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_overflow_disable
+                0x0000000000000000       0x14 _build/nrf_drv_rtc.o
+ .text.nrf_drv_rtc_max_ticks_get
+                0x0000000000000000       0x24 _build/nrf_drv_rtc.o
+ .rodata.m_default_config
+                0x0000000000000000        0x6 _build/nrf_drv_rtc.o
+ .bss.m_cb      0x0000000000000000        0x3 _build/nrf_drv_rtc.o
+ .text          0x0000000000000000        0x0 _build/app_uart_fifo.o
+ .data          0x0000000000000000        0x0 _build/app_uart_fifo.o
+ .bss           0x0000000000000000        0x0 _build/app_uart_fifo.o
+ .text.app_uart_flush
+                0x0000000000000000       0x1c _build/app_uart_fifo.o
+ .text.app_uart_close
+                0x0000000000000000        0xc _build/app_uart_fifo.o
+ .text          0x0000000000000000        0x0 _build/bmp180.o
+ .data          0x0000000000000000        0x0 _build/bmp180.o
+ .bss           0x0000000000000000        0x0 _build/bmp180.o
+ .text.bmp180_set_resolution
+                0x0000000000000000       0x48 _build/bmp180.o
+ .text.bmp180_write
+                0x0000000000000000       0x30 _build/bmp180.o
+ .text.bmp180_read2
+                0x0000000000000000       0x50 _build/bmp180.o
+ .text.bmp180_ensure_connected
+                0x0000000000000000       0x60 _build/bmp180.o
+ .text.bmp180_get_uncompensated_temperature
+                0x0000000000000000       0x80 _build/bmp180.o
+ .text.bmp180_compensate_temperature
+                0x0000000000000000       0x60 _build/bmp180.o
+ .text.bmp180_compensate_pressure
+                0x0000000000000000       0xfc _build/bmp180.o
+ .text.bmp180_soft_reset
+                0x0000000000000000       0x38 _build/bmp180.o
+ .text.bmp180_get_error_text
+                0x0000000000000000        0x8 _build/bmp180.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_uninit
+                0x0000000000000000       0xbc _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_disable
+                0x0000000000000000       0x18 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_errorsrc_get
+                0x0000000000000000       0x1c _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_tx_abort
+                0x0000000000000000       0x3c _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_abort
+                0x0000000000000000       0x1c _build/nrf_drv_uart.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_clock.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_clock.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_clock.o
+ .text.sd_clock_hfclk_request
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.sd_clock_hfclk_release
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.sd_clock_hfclk_is_running
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.sd_softdevice_is_enabled
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_init
+                0x0000000000000000       0x38 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_uninit
+                0x0000000000000000       0x14 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_lfclk_request
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_lfclk_release
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_lfclk_is_running
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_request
+                0x0000000000000000       0x1c _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_release
+                0x0000000000000000       0x18 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_is_running
+                0x0000000000000000       0x18 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_calibration_force
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_is_calibrating
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .bss.m_clock_cb
+                0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .comment       0x0000000000000000       0x6f _build/nrf_drv_clock.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/nrf_drv_clock.o
+ .text          0x0000000000000000        0x0 _build/app_util_platform.o
+ .data          0x0000000000000000        0x0 _build/app_util_platform.o
+ .bss           0x0000000000000000        0x0 _build/app_util_platform.o
+ .text.critical_region_enter
+                0x0000000000000000       0x10 _build/app_util_platform.o
+ .text.critical_region_exit
+                0x0000000000000000       0x14 _build/app_util_platform.o
+ .bss.m_in_critical_region
+                0x0000000000000000        0x4 _build/app_util_platform.o
+ .comment       0x0000000000000000       0x6f _build/app_util_platform.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/app_util_platform.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_gpiote.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_gpiote.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_uninit
+                0x0000000000000000       0xf0 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_init
+                0x0000000000000000       0xdc _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_uninit
+                0x0000000000000000       0x48 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_set
+                0x0000000000000000       0x10 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_clear
+                0x0000000000000000       0x14 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_toggle
+                0x0000000000000000       0x2c _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_enable
+                0x0000000000000000       0x38 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_disable
+                0x0000000000000000       0x28 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_addr_get
+                0x0000000000000000       0x20 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_force
+                0x0000000000000000       0x38 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_trigger
+                0x0000000000000000       0x20 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_in_event_disable
+                0x0000000000000000       0x5c _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_in_uninit
+                0x0000000000000000       0xa8 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_in_event_addr_get
+                0x0000000000000000       0x20 _build/nrf_drv_gpiote.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_twi.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_twi.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_twi.o
+ .text.nrf_drv_twi_uninit
+                0x0000000000000000       0x68 _build/nrf_drv_twi.o
+ .text.nrf_drv_twi_disable
+                0x0000000000000000       0x30 _build/nrf_drv_twi.o
+ .text.nrf_drv_twi_data_count_get
+                0x0000000000000000       0x18 _build/nrf_drv_twi.o
+ .text          0x0000000000000000        0x0 _build/softdevice_handler.o
+ .data          0x0000000000000000        0x0 _build/softdevice_handler.o
+ .bss           0x0000000000000000        0x0 _build/softdevice_handler.o
+ .text.sd_softdevice_disable
+                0x0000000000000000        0x4 _build/softdevice_handler.o
+ .text.intern_softdevice_events_execute
+                0x0000000000000000       0x14 _build/softdevice_handler.o
+ .text.softdevice_handler_isEnabled
+                0x0000000000000000        0xc _build/softdevice_handler.o
+ .text.softdevice_handler_sd_disable
+                0x0000000000000000       0x18 _build/softdevice_handler.o
+ .text.softdevice_ble_evt_handler_set
+                0x0000000000000000       0x14 _build/softdevice_handler.o
+ .text.softdevice_sys_evt_handler_set
+                0x0000000000000000       0x14 _build/softdevice_handler.o
+ .data          0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .bss           0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .ARM.extab     0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_sqrt.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_sqrt.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_sqrt.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fabs.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fabs.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fabs.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_finite.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_finite.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_finite.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fpclassify.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fpclassify.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fpclassify.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_nan.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_nan.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_nan.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_scalbn.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_scalbn.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_scalbn.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_copysign.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_copysign.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_copysign.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divsf3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqsf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqsf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gesf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(lesf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(lesf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subsf3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subsf3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(adddf3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(adddf3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqdf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqdf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gedf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gedf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(ledf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(ledf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(extendsfdf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(extendsfdf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(truncdfsf2.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0xe /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000000       0x1c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x10 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x18 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x18 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x1c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x18 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x14 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x2d0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x30 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x2a /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x4c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000000       0x30 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xcc /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x16 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000000       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .jcr           0x0000000000000000        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(fstat.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(fstat.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(fstat.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(isatty.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(isatty.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(isatty.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(lseek.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(lseek.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(lseek.o)
+ .text          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x000000000001c000 0x0000000000024000 xr
+RAM              0x0000000020002800 0x0000000000005800 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+LOAD _build/bsp.o
+LOAD _build/user_uart.o
+LOAD _build/user_twi.o
+LOAD _build/main.o
+LOAD _build/ble_advdata.o
+LOAD _build/system_nrf51.o
+LOAD _build/retarget.o
+LOAD _build/app_fifo.o
+LOAD _build/app_error.o
+LOAD _build/app_timer.o
+LOAD _build/nrf_assert.o
+LOAD _build/app_trace.o
+LOAD _build/ble_srv_common.o
+LOAD _build/ble_conn_params.o
+LOAD _build/nrf_delay.o
+LOAD _build/app_button.o
+LOAD _build/nrf_drv_rtc.o
+LOAD _build/app_uart_fifo.o
+LOAD _build/bmp180.o
+LOAD _build/nrf_drv_uart.o
+LOAD _build/nrf_drv_clock.o
+LOAD _build/app_util_platform.o
+LOAD _build/nrf_drv_gpiote.o
+LOAD _build/nrf_drv_common.o
+LOAD _build/nrf_drv_twi.o
+LOAD _build/softdevice_handler.o
+LOAD _build/gcc_startup_nrf51.o
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a
+START GROUP
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+START GROUP
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+
+.fs_data_out    0x0000000000000000        0x0
+                [!provide]                        PROVIDE (__start_fs_data, .)
+ *(fs_data)
+                [!provide]                        PROVIDE (__stop_fs_data, .)
+
+.text           0x000000000001c000     0x93bc
+ *(.Vectors)
+ .Vectors       0x000000000001c000       0xc0 _build/gcc_startup_nrf51.o
+                0x000000000001c000                __Vectors
+ *(.text*)
+ .text          0x000000000001c0c0       0xb4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .text          0x000000000001c174       0x78 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x000000000001c174                _mainCRTStartup
+                0x000000000001c174                _start
+ .text.exit     0x000000000001c1ec       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                0x000000000001c1ec                exit
+ .text.__libc_init_array
+                0x000000000001c218       0x4c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                0x000000000001c218                __libc_init_array
+ .text.memset   0x000000000001c264       0x10 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                0x000000000001c264                memset
+ .text._exit    0x000000000001c274        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x000000000001c274                _exit
+ .text.alert_timer_handler
+                0x000000000001c278       0x28 _build/bsp.o
+ .text.bsp_button_event_handler
+                0x000000000001c2a0       0xcc _build/bsp.o
+ .text.leds_timer_handler
+                0x000000000001c36c      0x300 _build/bsp.o
+ .text.button_timer_handler
+                0x000000000001c66c       0x48 _build/bsp.o
+ .text.bsp_indication_set
+                0x000000000001c6b4      0x394 _build/bsp.o
+                0x000000000001c6b4                bsp_indication_set
+ .text.bsp_init
+                0x000000000001ca48       0xc0 _build/bsp.o
+                0x000000000001ca48                bsp_init
+ .text.uart_error_handle
+                0x000000000001cb08       0x1c _build/user_uart.o
+ .text.uart_config
+                0x000000000001cb24       0x54 _build/user_uart.o
+                0x000000000001cb24                uart_config
+ .text.twi_init_a
+                0x000000000001cb78       0x38 _build/user_twi.o
+                0x000000000001cb78                twi_init_a
+ .text.sd_ble_gap_adv_start
+                0x000000000001cbb0        0x4 _build/main.o
+ .text.sd_ble_enable
+                0x000000000001cbb4        0x4 _build/main.o
+ .text.sd_app_evt_wait
+                0x000000000001cbb8        0x4 _build/main.o
+ .text.assert_nrf_callback
+                0x000000000001cbbc       0x14 _build/main.o
+                0x000000000001cbbc                assert_nrf_callback
+ .text.startup.main
+                0x000000000001cbd0      0x214 _build/main.o
+                0x000000000001cbd0                main
+ .text.sd_ble_gap_address_get
+                0x000000000001cde4        0x4 _build/ble_advdata.o
+ .text.sd_ble_gap_adv_data_set
+                0x000000000001cde8        0x4 _build/ble_advdata.o
+ .text.sd_ble_gap_appearance_get
+                0x000000000001cdec        0x4 _build/ble_advdata.o
+ .text.sd_ble_gap_device_name_get
+                0x000000000001cdf0        0x4 _build/ble_advdata.o
+ .text.sd_ble_uuid_encode
+                0x000000000001cdf4        0x4 _build/ble_advdata.o
+ .text.uuid_list_sized_encode
+                0x000000000001cdf8       0xf8 _build/ble_advdata.o
+ .text.adv_data_encode
+                0x000000000001cef0      0x5b8 _build/ble_advdata.o
+                0x000000000001cef0                adv_data_encode
+ .text.ble_advdata_set
+                0x000000000001d4a8       0x68 _build/ble_advdata.o
+                0x000000000001d4a8                ble_advdata_set
+ .text.SystemInit
+                0x000000000001d510       0x94 _build/system_nrf51.o
+                0x000000000001d510                SystemInit
+ .text._write   0x000000000001d5a4       0x1c _build/retarget.o
+                0x000000000001d5a4                _write
+ .text._read    0x000000000001d5c0       0x14 _build/retarget.o
+                0x000000000001d5c0                _read
+ .text.app_fifo_init
+                0x000000000001d5d4       0x28 _build/app_fifo.o
+                0x000000000001d5d4                app_fifo_init
+ .text.app_fifo_put
+                0x000000000001d5fc       0x28 _build/app_fifo.o
+                0x000000000001d5fc                app_fifo_put
+ .text.app_fifo_get
+                0x000000000001d624       0x28 _build/app_fifo.o
+                0x000000000001d624                app_fifo_get
+ .text.app_error_handler
+                0x000000000001d64c       0x18 _build/app_error.o
+                0x000000000001d64c                app_error_handler
+ .text.rtc1_stop
+                0x000000000001d664       0x78 _build/app_timer.o
+ .text.RTC1_IRQHandler
+                0x000000000001d6dc       0xe0 _build/app_timer.o
+                0x000000000001d6dc                RTC1_IRQHandler
+ .text.SWI0_IRQHandler
+                0x000000000001d7bc      0x4c0 _build/app_timer.o
+                0x000000000001d7bc                SWI0_IRQHandler
+ .text.app_timer_init
+                0x000000000001dc7c       0xe4 _build/app_timer.o
+                0x000000000001dc7c                app_timer_init
+ .text.app_timer_create
+                0x000000000001dd60       0x34 _build/app_timer.o
+                0x000000000001dd60                app_timer_create
+ .text.app_timer_start
+                0x000000000001dd94      0x108 _build/app_timer.o
+                0x000000000001dd94                app_timer_start
+ .text.app_timer_stop
+                0x000000000001de9c       0xd0 _build/app_timer.o
+                0x000000000001de9c                app_timer_stop
+ .text.nrf_delay_ms
+                0x000000000001df6c       0x3c _build/nrf_delay.o
+                0x000000000001df6c                nrf_delay_ms
+ .text.detection_delay_timeout_handler
+                0x000000000001dfa8       0xa0 _build/app_button.o
+ .text.gpiote_event_handler
+                0x000000000001e048       0x5c _build/app_button.o
+ .text.app_button_init
+                0x000000000001e0a4       0xb4 _build/app_button.o
+                0x000000000001e0a4                app_button_init
+ .text.app_button_enable
+                0x000000000001e158       0x30 _build/app_button.o
+                0x000000000001e158                app_button_enable
+ .text.RTC0_IRQHandler
+                0x000000000001e188      0x124 _build/nrf_drv_rtc.o
+                0x000000000001e188                RTC0_IRQHandler
+ .text.uart_event_handler
+                0x000000000001e2ac       0xc0 _build/app_uart_fifo.o
+ .text.app_uart_init
+                0x000000000001e36c       0xa4 _build/app_uart_fifo.o
+                0x000000000001e36c                app_uart_init
+ .text.app_uart_get
+                0x000000000001e410       0x34 _build/app_uart_fifo.o
+                0x000000000001e410                app_uart_get
+ .text.app_uart_put
+                0x000000000001e444       0x28 _build/app_uart_fifo.o
+                0x000000000001e444                app_uart_put
+ .text.bmp180_read_calibration
+                0x000000000001e46c       0xe8 _build/bmp180.o
+                0x000000000001e46c                bmp180_read_calibration
+ .text.bmp180_init
+                0x000000000001e554       0x5c _build/bmp180.o
+                0x000000000001e554                bmp180_init
+ .text.bmp180_print_calibration_data
+                0x000000000001e5b0       0xdc _build/bmp180.o
+                0x000000000001e5b0                bmp180_print_calibration_data
+ .text.bmp180_get_uncompensated_pressure
+                0x000000000001e68c       0xe8 _build/bmp180.o
+                0x000000000001e68c                bmp180_get_uncompensated_pressure
+ .text.bmp180_get_temperature
+                0x000000000001e774       0xd8 _build/bmp180.o
+                0x000000000001e774                bmp180_get_temperature
+ .text.bmp180_get_pressure
+                0x000000000001e84c      0x100 _build/bmp180.o
+                0x000000000001e84c                bmp180_get_pressure
+ .text.bmp180_get_altitude
+                0x000000000001e94c      0x138 _build/bmp180.o
+                0x000000000001e94c                bmp180_get_altitude
+ .text.nrf_drv_uart_init
+                0x000000000001ea84      0x110 _build/nrf_drv_uart.o
+                0x000000000001ea84                nrf_drv_uart_init
+ .text.nrf_drv_uart_tx
+                0x000000000001eb94       0xb4 _build/nrf_drv_uart.o
+                0x000000000001eb94                nrf_drv_uart_tx
+ .text.nrf_drv_uart_rx
+                0x000000000001ec48       0xf0 _build/nrf_drv_uart.o
+                0x000000000001ec48                nrf_drv_uart_rx
+ .text.nrf_drv_uart_rx_enable
+                0x000000000001ed38       0x2c _build/nrf_drv_uart.o
+                0x000000000001ed38                nrf_drv_uart_rx_enable
+ .text.UART0_IRQHandler
+                0x000000000001ed64      0x16c _build/nrf_drv_uart.o
+                0x000000000001ed64                UART0_IRQHandler
+ .text.nrf_drv_gpiote_init
+                0x000000000001eed0       0x68 _build/nrf_drv_gpiote.o
+                0x000000000001eed0                nrf_drv_gpiote_init
+ .text.nrf_drv_gpiote_is_init
+                0x000000000001ef38       0x14 _build/nrf_drv_gpiote.o
+                0x000000000001ef38                nrf_drv_gpiote_is_init
+ .text.nrf_drv_gpiote_in_init
+                0x000000000001ef4c      0x160 _build/nrf_drv_gpiote.o
+                0x000000000001ef4c                nrf_drv_gpiote_in_init
+ .text.nrf_drv_gpiote_in_event_enable
+                0x000000000001f0ac       0xa8 _build/nrf_drv_gpiote.o
+                0x000000000001f0ac                nrf_drv_gpiote_in_event_enable
+ .text.nrf_drv_gpiote_in_is_set
+                0x000000000001f154       0x14 _build/nrf_drv_gpiote.o
+                0x000000000001f154                nrf_drv_gpiote_in_is_set
+ .text.GPIOTE_IRQHandler
+                0x000000000001f168      0x3b0 _build/nrf_drv_gpiote.o
+                0x000000000001f168                GPIOTE_IRQHandler
+ .text.nrf_drv_common_irq_enable
+                0x000000000001f518       0x7c _build/nrf_drv_common.o
+                0x000000000001f518                nrf_drv_common_irq_enable
+ .text.sd_nvic_critical_region_enter
+                0x000000000001f594        0x4 _build/nrf_drv_twi.o
+ .text.sd_nvic_critical_region_exit
+                0x000000000001f598        0x4 _build/nrf_drv_twi.o
+ .text.on_error
+                0x000000000001f59c       0x50 _build/nrf_drv_twi.o
+ .text.ack_error
+                0x000000000001f5ec       0x18 _build/nrf_drv_twi.o
+ .text.twi_transfer
+                0x000000000001f604      0x2f4 _build/nrf_drv_twi.o
+ .text.rx_done  0x000000000001f8f8      0x128 _build/nrf_drv_twi.o
+ .text.rx_prepare
+                0x000000000001fa20      0x100 _build/nrf_drv_twi.o
+ .text.tx_prepare
+                0x000000000001fb20      0x11c _build/nrf_drv_twi.o
+ .text.rx_address_req
+                0x000000000001fc3c      0x150 _build/nrf_drv_twi.o
+ .text.address_req
+                0x000000000001fd8c      0x16c _build/nrf_drv_twi.o
+ .text.tx_done  0x000000000001fef8      0x128 _build/nrf_drv_twi.o
+ .text.nrf_drv_twi_init
+                0x0000000000020020      0x1d8 _build/nrf_drv_twi.o
+                0x0000000000020020                nrf_drv_twi_init
+ .text.nrf_drv_twi_enable
+                0x00000000000201f8       0x5c _build/nrf_drv_twi.o
+                0x00000000000201f8                nrf_drv_twi_enable
+ .text.nrf_drv_twi_tx
+                0x0000000000020254       0x18 _build/nrf_drv_twi.o
+                0x0000000000020254                nrf_drv_twi_tx
+ .text.nrf_drv_twi_rx
+                0x000000000002026c       0x18 _build/nrf_drv_twi.o
+                0x000000000002026c                nrf_drv_twi_rx
+ .text.SPI0_TWI0_IRQHandler
+                0x0000000000020284      0x130 _build/nrf_drv_twi.o
+                0x0000000000020284                SPI0_TWI0_IRQHandler
+ .text.sd_nvic_EnableIRQ
+                0x00000000000203b4        0x4 _build/softdevice_handler.o
+ .text.sd_evt_get
+                0x00000000000203b8        0x4 _build/softdevice_handler.o
+ .text.sd_softdevice_enable
+                0x00000000000203bc        0x4 _build/softdevice_handler.o
+ .text.sd_ble_evt_get
+                0x00000000000203c0        0x4 _build/softdevice_handler.o
+ .text.softdevice_assertion_handler
+                0x00000000000203c4        0xc _build/softdevice_handler.o
+                0x00000000000203c4                softdevice_assertion_handler
+ .text.intern_softdevice_events_execute.part.0
+                0x00000000000203d0       0xec _build/softdevice_handler.o
+ .text.softdevice_handler_init
+                0x00000000000204bc       0x4c _build/softdevice_handler.o
+                0x00000000000204bc                softdevice_handler_init
+ .text.SWI2_IRQHandler
+                0x0000000000020508       0x34 _build/softdevice_handler.o
+                0x0000000000020508                SWI2_IRQHandler
+ .text          0x000000000002053c       0x54 _build/gcc_startup_nrf51.o
+                0x000000000002053c                Reset_Handler
+                0x0000000000020584                NMI_Handler
+                0x0000000000020586                HardFault_Handler
+                0x0000000000020588                SVC_Handler
+                0x000000000002058a                PendSV_Handler
+                0x000000000002058c                SysTick_Handler
+                0x000000000002058e                QDEC_IRQHandler
+                0x000000000002058e                SWI5_IRQHandler
+                0x000000000002058e                TIMER0_IRQHandler
+                0x000000000002058e                TIMER1_IRQHandler
+                0x000000000002058e                ECB_IRQHandler
+                0x000000000002058e                Default_Handler
+                0x000000000002058e                ADC_IRQHandler
+                0x000000000002058e                SWI3_IRQHandler
+                0x000000000002058e                CCM_AAR_IRQHandler
+                0x000000000002058e                WDT_IRQHandler
+                0x000000000002058e                RNG_IRQHandler
+                0x000000000002058e                SPI1_TWI1_IRQHandler
+                0x000000000002058e                TIMER2_IRQHandler
+                0x000000000002058e                SWI1_IRQHandler
+                0x000000000002058e                POWER_CLOCK_IRQHandler
+                0x000000000002058e                RADIO_IRQHandler
+                0x000000000002058e                LPCOMP_IRQHandler
+                0x000000000002058e                SWI4_IRQHandler
+                0x000000000002058e                TEMP_IRQHandler
+ .text.powf     0x0000000000020590      0x344 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o)
+                0x0000000000020590                powf
+ .text.__ieee754_powf
+                0x00000000000208d4      0x740 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o)
+                0x00000000000208d4                __ieee754_powf
+ .text.__ieee754_sqrtf
+                0x0000000000021014       0xb8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_sqrt.o)
+                0x0000000000021014                __ieee754_sqrtf
+ .text.matherr  0x00000000000210cc        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+                0x00000000000210cc                matherr
+ .text.rint     0x00000000000210d0      0x144 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+                0x00000000000210d0                rint
+ .text.fabsf    0x0000000000021214        0x8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fabs.o)
+                0x0000000000021214                fabsf
+ .text.finitef  0x000000000002121c       0x14 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_finite.o)
+                0x000000000002121c                finitef
+ .text.__fpclassifyf
+                0x0000000000021230       0x40 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fpclassify.o)
+                0x0000000000021230                __fpclassifyf
+ .text.nanf     0x0000000000021270        0x8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_nan.o)
+                0x0000000000021270                nanf
+ .text.scalbnf  0x0000000000021278       0xc4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_scalbn.o)
+                0x0000000000021278                scalbnf
+ .text.copysignf
+                0x000000000002133c        0xc /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_copysign.o)
+                0x000000000002133c                copysignf
+ .text          0x0000000000021348      0x114 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+                0x0000000000021348                __udivsi3
+                0x0000000000021348                __aeabi_uidiv
+                0x0000000000021454                __aeabi_uidivmod
+ .text          0x000000000002145c      0x1d4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_divsi3.o)
+                0x000000000002145c                __aeabi_idiv
+                0x000000000002145c                __divsi3
+                0x0000000000021628                __aeabi_idivmod
+ .text          0x0000000000021630        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x0000000000021630                __aeabi_ldiv0
+                0x0000000000021630                __aeabi_idiv0
+ .text          0x0000000000021634       0x7c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpdf2.o)
+                0x0000000000021634                __aeabi_cdrcmple
+                0x0000000000021644                __aeabi_cdcmple
+                0x0000000000021644                __aeabi_cdcmpeq
+                0x0000000000021654                __aeabi_dcmpeq
+                0x0000000000021660                __aeabi_dcmplt
+                0x0000000000021674                __aeabi_dcmple
+                0x0000000000021688                __aeabi_dcmpgt
+                0x000000000002169c                __aeabi_dcmpge
+ .text          0x00000000000216b0       0x74 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+                0x00000000000216b0                __aeabi_cfrcmple
+                0x00000000000216b8                __aeabi_cfcmple
+                0x00000000000216b8                __aeabi_cfcmpeq
+                0x00000000000216c8                __aeabi_fcmpeq
+                0x00000000000216d4                __aeabi_fcmplt
+                0x00000000000216e8                __aeabi_fcmple
+                0x00000000000216fc                __aeabi_fcmpgt
+                0x0000000000021710                __aeabi_fcmpge
+ .text          0x0000000000021724      0x2ec /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+                0x0000000000021724                __aeabi_fadd
+ .text          0x0000000000021a10      0x234 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divsf3.o)
+                0x0000000000021a10                __aeabi_fdiv
+ .text          0x0000000000021c44       0x50 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqsf2.o)
+                0x0000000000021c44                __nesf2
+                0x0000000000021c44                __eqsf2
+ .text          0x0000000000021c94       0x88 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gesf2.o)
+                0x0000000000021c94                __gtsf2
+                0x0000000000021c94                __gesf2
+ .text          0x0000000000021d1c       0x88 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(lesf2.o)
+                0x0000000000021d1c                __lesf2
+                0x0000000000021d1c                __ltsf2
+ .text          0x0000000000021da4      0x228 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+                0x0000000000021da4                __aeabi_fmul
+ .text          0x0000000000021fcc      0x30c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subsf3.o)
+                0x0000000000021fcc                __aeabi_fsub
+ .text          0x00000000000222d8       0x44 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+                0x00000000000222d8                __aeabi_f2iz
+ .text          0x000000000002231c       0x90 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+                0x000000000002231c                __aeabi_i2f
+ .text          0x00000000000223ac      0x658 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(adddf3.o)
+                0x00000000000223ac                __aeabi_dadd
+ .text          0x0000000000022a04      0x62c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divdf3.o)
+                0x0000000000022a04                __aeabi_ddiv
+ .text          0x0000000000023030       0x80 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqdf2.o)
+                0x0000000000023030                __eqdf2
+                0x0000000000023030                __nedf2
+ .text          0x00000000000230b0       0xc8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gedf2.o)
+                0x00000000000230b0                __gtdf2
+                0x00000000000230b0                __gedf2
+ .text          0x0000000000023178       0xd4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(ledf2.o)
+                0x0000000000023178                __ltdf2
+                0x0000000000023178                __ledf2
+ .text          0x000000000002324c      0x4f4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+                0x000000000002324c                __aeabi_dmul
+ .text          0x0000000000023740      0x6a8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subdf3.o)
+                0x0000000000023740                __aeabi_dsub
+ .text          0x0000000000023de8       0xa8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(extendsfdf2.o)
+                0x0000000000023de8                __aeabi_f2d
+ .text          0x0000000000023e90      0x118 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(truncdfsf2.o)
+                0x0000000000023e90                __aeabi_d2f
+ .text          0x0000000000023fa8       0x3c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+                0x0000000000023fa8                __clzsi2
+ .text.__errno  0x0000000000023fe4        0xc /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+                0x0000000000023fe4                __errno
+ .text.memcpy   0x0000000000023ff0       0x12 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+                0x0000000000023ff0                memcpy
+ *fill*         0x0000000000024002        0x2 
+ .text.printf   0x0000000000024004       0x34 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o)
+                0x0000000000024004                printf
+                0x0000000000024004                iprintf
+ .text._cleanup_r
+                0x0000000000024038       0x10 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+                0x0000000000024038                _cleanup_r
+ .text.std.isra.0
+                0x0000000000024048       0x48 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000024090       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+                0x0000000000024090                __sfmoreglue
+ .text.__sinit  0x00000000000240bc       0x68 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+                0x00000000000240bc                __sinit
+ .text.__sfp    0x0000000000024124       0x7c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+                0x0000000000024124                __sfp
+ .text._fwalk_reent
+                0x00000000000241a0       0x42 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fwalk.o)
+                0x00000000000241a0                _fwalk_reent
+ *fill*         0x00000000000241e2        0x2 
+ .text._malloc_r
+                0x00000000000241e4       0xac /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000000241e4                _malloc_r
+ .text.__sfputc_r
+                0x0000000000024290       0x2a /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x00000000000242ba       0x24 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000242ba                __sfputs_r
+ *fill*         0x00000000000242de        0x2 
+ .text._vfprintf_r
+                0x00000000000242e0      0x238 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000242e0                _vfiprintf_r
+                0x00000000000242e0                _vfprintf_r
+ .text._printf_common
+                0x0000000000024518       0xdc /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000024518                _printf_common
+ .text._printf_i
+                0x00000000000245f4      0x244 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000000245f4                _printf_i
+ .text._sbrk_r  0x0000000000024838       0x24 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+                0x0000000000024838                _sbrk_r
+ .text.__sread  0x000000000002485c       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+                0x000000000002485c                __sread
+ .text.__swrite
+                0x0000000000024884       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+                0x0000000000024884                __swrite
+ .text.__sseek  0x00000000000248bc       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+                0x00000000000248bc                __sseek
+ .text.__sclose
+                0x00000000000248e8        0xc /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+                0x00000000000248e8                __sclose
+ .text.__swbuf_r
+                0x00000000000248f4       0xb0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wbuf.o)
+                0x00000000000248f4                __swbuf_r
+ .text._write_r
+                0x00000000000249a4       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-writer.o)
+                0x00000000000249a4                _write_r
+ .text.__swsetup_r
+                0x00000000000249cc       0xe8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o)
+                0x00000000000249cc                __swsetup_r
+ .text._close_r
+                0x0000000000024ab4       0x24 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-closer.o)
+                0x0000000000024ab4                _close_r
+ .text.__sflush_r
+                0x0000000000024ad8      0x10c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+                0x0000000000024ad8                __sflush_r
+ .text._fflush_r
+                0x0000000000024be4       0x58 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+                0x0000000000024be4                _fflush_r
+ .text._lseek_r
+                0x0000000000024c3c       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-lseekr.o)
+                0x0000000000024c3c                _lseek_r
+ .text.__smakebuf_r
+                0x0000000000024c64       0xa4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o)
+                0x0000000000024c64                __smakebuf_r
+ .text.memchr   0x0000000000024d08       0x16 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
+                0x0000000000024d08                memchr
+ *fill*         0x0000000000024d1e        0x2 
+ .text._free_r  0x0000000000024d20       0x8c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                0x0000000000024d20                _free_r
+ .text._read_r  0x0000000000024dac       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-readr.o)
+                0x0000000000024dac                _read_r
+ .text._fstat_r
+                0x0000000000024dd4       0x24 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fstatr.o)
+                0x0000000000024dd4                _fstat_r
+ .text._isatty_r
+                0x0000000000024df8       0x24 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-isattyr.o)
+                0x0000000000024df8                _isatty_r
+ .text._close   0x0000000000024e1c       0x10 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
+                0x0000000000024e1c                _close
+ .text._fstat   0x0000000000024e2c       0x10 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(fstat.o)
+                0x0000000000024e2c                _fstat
+ .text._isatty  0x0000000000024e3c       0x10 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(isatty.o)
+                0x0000000000024e3c                _isatty
+ .text._lseek   0x0000000000024e4c       0x10 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(lseek.o)
+                0x0000000000024e4c                _lseek
+ .text._sbrk    0x0000000000024e5c       0x1c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+                0x0000000000024e5c                _sbrk
+ *(.init)
+ .init          0x0000000000024e78        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+                0x0000000000024e78                _init
+ .init          0x0000000000024e7c        0x8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x0000000000024e84        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+                0x0000000000024e84                _fini
+ .fini          0x0000000000024e88        0x8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000024e90        0x2 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ *fill*         0x0000000000024e92        0x2 
+ .rodata._global_impure_ptr
+                0x0000000000024e94        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x0000000000024e94                _global_impure_ptr
+ .rodata.leds_timer_handler
+                0x0000000000024e98       0x60 _build/bsp.o
+ .rodata.bsp_indication_set
+                0x0000000000024ef8       0x60 _build/bsp.o
+ .rodata.m_button_timer_id
+                0x0000000000024f58        0x4 _build/bsp.o
+ .rodata.m_leds_timer_id
+                0x0000000000024f5c        0x4 _build/bsp.o
+ .rodata.m_alert_timer_id
+                0x0000000000024f60        0x4 _build/bsp.o
+ .rodata.app_buttons
+                0x0000000000024f64       0x20 _build/bsp.o
+ .rodata        0x0000000000024f84        0xc _build/user_uart.o
+ .rodata.str1.4
+                0x0000000000024f90        0xf _build/user_uart.o
+ *fill*         0x0000000000024f9f        0x1 
+ .rodata        0x0000000000024fa0       0x10 _build/user_twi.o
+ .rodata.str1.4
+                0x0000000000024fb0       0x3b _build/main.o
+ *fill*         0x0000000000024feb        0x1 
+ .rodata.m_twi_instance
+                0x0000000000024fec        0x8 _build/main.o
+                0x0000000000024fec                m_twi_instance
+ .rodata.m_detection_delay_timer_id
+                0x0000000000024ff4        0x4 _build/app_button.o
+ .rodata        0x0000000000024ff8       0x20 _build/app_uart_fifo.o
+ .rodata.str1.4
+                0x0000000000025018       0xd2 _build/bmp180.o
+ *fill*         0x00000000000250ea        0x2 
+ .rodata.m_default_config
+                0x00000000000250ec       0x20 _build/nrf_drv_uart.o
+ .rodata.m_states_len
+                0x000000000002510c       0x14 _build/nrf_drv_twi.o
+ .rodata.m_stopped
+                0x0000000000025120       0x18 _build/nrf_drv_twi.o
+ .rodata.m_default_config
+                0x0000000000025138       0x10 _build/nrf_drv_twi.o
+ .rodata.m_idle
+                0x0000000000025148       0x10 _build/nrf_drv_twi.o
+ .rodata.m_tx_suspended
+                0x0000000000025158       0x28 _build/nrf_drv_twi.o
+ .rodata.m_error
+                0x0000000000025180       0x18 _build/nrf_drv_twi.o
+ .rodata.mp_states
+                0x0000000000025198       0x14 _build/nrf_drv_twi.o
+ .rodata.m_rx_suspended
+                0x00000000000251ac       0x20 _build/nrf_drv_twi.o
+ .rodata.str1.4
+                0x00000000000251cc        0x5 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o)
+ .rodata.str1.4
+                0x00000000000251d1        0x8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o)
+                                          0x1 (size before relaxing)
+ *fill*         0x00000000000251d1        0x7 
+ .rodata.TWO52  0x00000000000251d8       0x10 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .rodata        0x00000000000251e8       0x80 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divsf3.o)
+ .rodata        0x0000000000025268       0x40 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .rodata        0x00000000000252a8       0x40 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divdf3.o)
+ .rodata        0x00000000000252e8       0x40 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .rodata.__sf_fake_stdin
+                0x0000000000025328       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+                0x0000000000025328                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x0000000000025348       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+                0x0000000000025348                __sf_fake_stdout
+ .rodata.__sf_fake_stderr
+                0x0000000000025368       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+                0x0000000000025368                __sf_fake_stderr
+ .rodata.str1.1
+                0x0000000000025388       0x11 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .rodata.str1.1
+                0x0000000000025399       0x22 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.eh_frame*)
+ *fill*         0x00000000000253bb        0x1 
+ .eh_frame      0x00000000000253bc        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                0x00000000000253bc                . = ALIGN (0x4)
+
+.glue_7         0x00000000000253bc        0x0
+ .glue_7        0x00000000000253bc        0x0 linker stubs
+
+.glue_7t        0x00000000000253bc        0x0
+ .glue_7t       0x00000000000253bc        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000253bc        0x0
+ .vfp11_veneer  0x00000000000253bc        0x0 linker stubs
+
+.v4_bx          0x00000000000253bc        0x0
+ .v4_bx         0x00000000000253bc        0x0 linker stubs
+
+.iplt           0x00000000000253bc        0x0
+ .iplt          0x00000000000253bc        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+
+.ARM.extab      0x00000000000253bc        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000000000253bc                . = ALIGN (0x4)
+                0x00000000000253bc                __exidx_start = .
+
+.ARM.exidx      0x00000000000253bc        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00000000000253bc        0x8 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00000000000253c4        0x0 _build/gcc_startup_nrf51.o
+                                          0x8 (size before relaxing)
+                0x00000000000253c4                . = ALIGN (0x4)
+                0x00000000000253c4                __exidx_end = .
+                0x00000000000253c4                __etext = .
+
+.rel.dyn        0x00000000000253c4        0x0
+ .rel.iplt      0x00000000000253c4        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+
+.data           0x0000000020002800       0x88 load address 0x00000000000253c4
+                0x0000000020002800                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x0000000020002800       0x60 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000020002860        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x0000000020002860                _impure_ptr
+ .data.major_value
+                0x0000000020002864        0x2 _build/main.o
+                0x0000000020002864                major_value
+ .data.minor_value
+                0x0000000020002866        0x2 _build/main.o
+                0x0000000020002866                minor_value
+ .data.m_beacon_info
+                0x0000000020002868       0x17 _build/main.o
+ .data.__fdlib_version
+                0x000000002000287f        0x1 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+                0x000000002000287f                __fdlib_version
+                0x0000000020002880                . = ALIGN (0x4)
+                0x0000000020002880                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000020002880                PROVIDE (__preinit_array_end, .)
+                0x0000000020002880                . = ALIGN (0x4)
+                0x0000000020002880                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000020002880        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                0x0000000020002884                PROVIDE (__init_array_end, .)
+                0x0000000020002884                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020002884        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end, .)
+ *(.jcr)
+ .jcr           0x0000000020002888        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                0x0000000020002888                . = ALIGN (0x4)
+                0x0000000020002888                __data_end__ = .
+
+.tm_clone_table
+                0x0000000020002888        0x0 load address 0x000000000002544c
+ .tm_clone_table
+                0x0000000020002888        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .tm_clone_table
+                0x0000000020002888        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+
+.igot.plt       0x0000000020002888        0x0 load address 0x000000000002544c
+ .igot.plt      0x0000000020002888        0x0 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+
+.bss            0x0000000020002888      0x538 load address 0x000000000002544c
+                0x0000000020002888                . = ALIGN (0x4)
+                0x0000000020002888                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020002888       0x1c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .bss.m_leds_timer_id_data
+                0x00000000200028a4       0x20 _build/bsp.o
+ .bss.m_alert_mask
+                0x00000000200028c4        0x4 _build/bsp.o
+ .bss.current_long_push_pin_no.6051
+                0x00000000200028c8        0x1 _build/bsp.o
+ *fill*         0x00000000200028c9        0x3 
+ .bss.m_indication_type
+                0x00000000200028cc        0x4 _build/bsp.o
+ .bss.release_event_at_push.6052
+                0x00000000200028d0        0x4 _build/bsp.o
+ .bss.m_app_ticks_per_100ms
+                0x00000000200028d4        0x4 _build/bsp.o
+ .bss.m_registered_callback
+                0x00000000200028d8        0x4 _build/bsp.o
+ .bss.m_button_timer_id_data
+                0x00000000200028dc       0x20 _build/bsp.o
+ .bss.m_stable_state
+                0x00000000200028fc        0x1 _build/bsp.o
+ *fill*         0x00000000200028fd        0x3 
+ .bss.m_alert_timer_id_data
+                0x0000000020002900       0x20 _build/bsp.o
+ .bss.m_events_list
+                0x0000000020002920        0xc _build/bsp.o
+ .bss.rx_buf.6000
+                0x000000002000292c        0x1 _build/user_uart.o
+ *fill*         0x000000002000292d        0x3 
+ .bss.tx_buf.6001
+                0x0000000020002930      0x100 _build/user_uart.o
+ .bss.APP_TIMER_BUF.8756
+                0x0000000020002a30      0x1c8 _build/main.o
+ .bss.BLE_EVT_BUFFER.8727
+                0x0000000020002bf8       0x48 _build/main.o
+ .bss.m_adv_params
+                0x0000000020002c40       0x18 _build/main.o
+ .bss.m_ticks_latest
+                0x0000000020002c58        0x4 _build/app_timer.o
+ .bss.mp_timer_id_head
+                0x0000000020002c5c        0x4 _build/app_timer.o
+ .bss.m_evt_schedule_func
+                0x0000000020002c60        0x4 _build/app_timer.o
+ .bss.m_user_array_size
+                0x0000000020002c64        0x1 _build/app_timer.o
+ *fill*         0x0000000020002c65        0x3 
+ .bss.mp_users  0x0000000020002c68        0x4 _build/app_timer.o
+ .bss.m_ticks_elapsed_q_read_ind
+                0x0000000020002c6c        0x1 _build/app_timer.o
+ .bss.m_ticks_elapsed_q_write_ind
+                0x0000000020002c6d        0x1 _build/app_timer.o
+ .bss.m_rtc1_reset
+                0x0000000020002c6e        0x1 _build/app_timer.o
+ *fill*         0x0000000020002c6f        0x1 
+ .bss.m_ticks_elapsed
+                0x0000000020002c70        0x8 _build/app_timer.o
+ .bss.m_rtc1_running
+                0x0000000020002c78        0x1 _build/app_timer.o
+ *fill*         0x0000000020002c79        0x3 
+ .bss.m_detection_delay
+                0x0000000020002c7c        0x4 _build/app_button.o
+ .bss.mp_buttons
+                0x0000000020002c80        0x4 _build/app_button.o
+ .bss.m_button_count
+                0x0000000020002c84        0x1 _build/app_button.o
+ *fill*         0x0000000020002c85        0x3 
+ .bss.m_detection_delay_timer_id_data
+                0x0000000020002c88       0x20 _build/app_button.o
+ .bss.m_pin_state
+                0x0000000020002ca8        0x4 _build/app_button.o
+ .bss.m_pin_transition
+                0x0000000020002cac        0x4 _build/app_button.o
+ .bss.m_handlers
+                0x0000000020002cb0        0x4 _build/nrf_drv_rtc.o
+ .bss.tx_buffer
+                0x0000000020002cb4        0x1 _build/app_uart_fifo.o
+ *fill*         0x0000000020002cb5        0x3 
+ .bss.m_event_handler
+                0x0000000020002cb8        0x4 _build/app_uart_fifo.o
+ .bss.rx_buffer
+                0x0000000020002cbc        0x1 _build/app_uart_fifo.o
+ *fill*         0x0000000020002cbd        0x3 
+ .bss.m_tx_fifo
+                0x0000000020002cc0       0x10 _build/app_uart_fifo.o
+ .bss.m_rx_fifo
+                0x0000000020002cd0       0x10 _build/app_uart_fifo.o
+ .bss.tx_tmp    0x0000000020002ce0        0x1 _build/app_uart_fifo.o
+ *fill*         0x0000000020002ce1        0x3 
+ .bss.m_twi_instance
+                0x0000000020002ce4        0x4 _build/bmp180.o
+ .bss.m_cb      0x0000000020002ce8       0x18 _build/nrf_drv_uart.o
+ .bss.m_cb      0x0000000020002d00       0x48 _build/nrf_drv_gpiote.o
+ .bss.m_instances
+                0x0000000020002d48        0x4 _build/nrf_drv_twi.o
+ .bss.m_handlers
+                0x0000000020002d4c        0x4 _build/nrf_drv_twi.o
+ .bss.mp_contexts
+                0x0000000020002d50        0x4 _build/nrf_drv_twi.o
+ .bss.m_cb      0x0000000020002d54       0x18 _build/nrf_drv_twi.o
+ .bss.m_softdevice_enabled
+                0x0000000020002d6c        0x1 _build/softdevice_handler.o
+ *fill*         0x0000000020002d6d        0x1 
+ .bss.m_ble_evt_buffer_size
+                0x0000000020002d6e        0x2 _build/softdevice_handler.o
+ .bss.mp_ble_evt_buffer
+                0x0000000020002d70        0x4 _build/softdevice_handler.o
+ .bss.m_sys_evt_handler
+                0x0000000020002d74        0x4 _build/softdevice_handler.o
+ .bss.m_ble_evt_handler
+                0x0000000020002d78        0x4 _build/softdevice_handler.o
+ .bss.m_evt_schedule_func
+                0x0000000020002d7c        0x4 _build/softdevice_handler.o
+ .bss.__malloc_sbrk_start
+                0x0000000020002d80        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020002d80                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x0000000020002d84        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020002d84                __malloc_free_list
+ .bss.heap_end.4167
+                0x0000000020002d88        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x0000000020002d8c       0x30 _build/bmp180.o
+                0x0000000020002d8c                AcceptableTemperatureLatencyForPressure
+                0x0000000020002d8e                LastTemperatureData
+                0x0000000020002d90                ConversionWaitTimeMs
+                0x0000000020002d92                IsConnected
+                0x0000000020002d94                LastTemperatureTime
+                0x0000000020002d98                Calibration_AC6
+                0x0000000020002d9c                Oversample
+                0x0000000020002d9e                Calibration_MB
+                0x0000000020002da0                Calibration_MD
+                0x0000000020002da4                Calibration_AC5
+                0x0000000020002da8                Calibration_B2
+                0x0000000020002daa                Calibration_AC2
+                0x0000000020002dac                Calibration_AC1
+                0x0000000020002dae                Calibration_AC3
+                0x0000000020002db0                OversamplingSetting
+                0x0000000020002db2                Calibration_MC
+                0x0000000020002db4                Calibration_B1
+                0x0000000020002db8                Calibration_AC4
+ COMMON         0x0000000020002dbc        0x4 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+                0x0000000020002dbc                errno
+                0x0000000020002dc0                . = ALIGN (0x4)
+                0x0000000020002dc0                __bss_end__ = .
+
+.heap           0x0000000020002dc0      0x800
+                0x0000000020002dc0                __end__ = .
+                0x0000000020002dc0                end = __end__
+ *(.heap*)
+ .heap          0x0000000020002dc0      0x800 _build/gcc_startup_nrf51.o
+                0x0000000020002dc0                __HeapBase
+                0x00000000200035c0                __HeapLimit = .
+
+.stack_dummy    0x0000000020002dc0      0x800
+ *(.stack*)
+ .stack         0x0000000020002dc0      0x800 _build/gcc_startup_nrf51.o
+                0x0000000020008000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000020007800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020008000                PROVIDE (__stack, __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/nrf51422_xxac_s130.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ .ARM.attributes
+                0x0000000000000000       0x1e /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000091       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000000bd       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000000e9       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000115       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000141       0x31 _build/bsp.o
+ .ARM.attributes
+                0x0000000000000172       0x31 _build/user_uart.o
+ .ARM.attributes
+                0x00000000000001a3       0x31 _build/user_twi.o
+ .ARM.attributes
+                0x00000000000001d4       0x31 _build/main.o
+ .ARM.attributes
+                0x0000000000000205       0x31 _build/ble_advdata.o
+ .ARM.attributes
+                0x0000000000000236       0x31 _build/system_nrf51.o
+ .ARM.attributes
+                0x0000000000000267       0x31 _build/retarget.o
+ .ARM.attributes
+                0x0000000000000298       0x31 _build/app_fifo.o
+ .ARM.attributes
+                0x00000000000002c9       0x31 _build/app_error.o
+ .ARM.attributes
+                0x00000000000002fa       0x31 _build/app_timer.o
+ .ARM.attributes
+                0x000000000000032b       0x31 _build/nrf_delay.o
+ .ARM.attributes
+                0x000000000000035c       0x31 _build/app_button.o
+ .ARM.attributes
+                0x000000000000038d       0x31 _build/nrf_drv_rtc.o
+ .ARM.attributes
+                0x00000000000003be       0x31 _build/app_uart_fifo.o
+ .ARM.attributes
+                0x00000000000003ef       0x31 _build/bmp180.o
+ .ARM.attributes
+                0x0000000000000420       0x31 _build/nrf_drv_uart.o
+ .ARM.attributes
+                0x0000000000000451       0x31 _build/nrf_drv_gpiote.o
+ .ARM.attributes
+                0x0000000000000482       0x31 _build/nrf_drv_common.o
+ .ARM.attributes
+                0x00000000000004b3       0x31 _build/nrf_drv_twi.o
+ .ARM.attributes
+                0x00000000000004e4       0x31 _build/softdevice_handler.o
+ .ARM.attributes
+                0x0000000000000515       0x1b _build/gcc_startup_nrf51.o
+ .ARM.attributes
+                0x0000000000000530       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o)
+ .ARM.attributes
+                0x000000000000055c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o)
+ .ARM.attributes
+                0x0000000000000588       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_sqrt.o)
+ .ARM.attributes
+                0x00000000000005b4       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x00000000000005e0       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x000000000000060c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x0000000000000638       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fabs.o)
+ .ARM.attributes
+                0x0000000000000664       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_finite.o)
+ .ARM.attributes
+                0x0000000000000690       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fpclassify.o)
+ .ARM.attributes
+                0x00000000000006bc       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_nan.o)
+ .ARM.attributes
+                0x00000000000006e8       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_scalbn.o)
+ .ARM.attributes
+                0x0000000000000714       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_copysign.o)
+ .ARM.attributes
+                0x0000000000000740       0x1e /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000000000075e       0x1e /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000000000000077c       0x1e /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000000079a       0x1e /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000000007b8       0x1e /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000000007d6       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x0000000000000802       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divsf3.o)
+ .ARM.attributes
+                0x000000000000082e       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x000000000000085a       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x0000000000000886       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x00000000000008b2       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x00000000000008de       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x000000000000090a       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000936       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x0000000000000962       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(adddf3.o)
+ .ARM.attributes
+                0x000000000000098e       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divdf3.o)
+ .ARM.attributes
+                0x00000000000009ba       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqdf2.o)
+ .ARM.attributes
+                0x00000000000009e6       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gedf2.o)
+ .ARM.attributes
+                0x0000000000000a12       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(ledf2.o)
+ .ARM.attributes
+                0x0000000000000a3e       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x0000000000000a6a       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subdf3.o)
+ .ARM.attributes
+                0x0000000000000a96       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(extendsfdf2.o)
+ .ARM.attributes
+                0x0000000000000ac2       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(truncdfsf2.o)
+ .ARM.attributes
+                0x0000000000000aee       0x1e /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000000000000b0c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000b38       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000b64       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000000000000b90       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000000000000bbc       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000000000000be8       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000c14       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x0000000000000c40       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000000000000c6c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000c98       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000cc4       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x0000000000000cf0       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000d1c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000000000000d48       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000d74       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000da0       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000dcc       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000000df8       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x0000000000000e24       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000e50       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000e7c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000ea8       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000ed4       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000000000000f00       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .ARM.attributes
+                0x0000000000000f2c       0x1e /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .ARM.attributes
+                0x0000000000000f4a       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
+ .ARM.attributes
+                0x0000000000000f76       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(fstat.o)
+ .ARM.attributes
+                0x0000000000000fa2       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(isatty.o)
+ .ARM.attributes
+                0x0000000000000fce       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x0000000000000ffa       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+
+.comment        0x0000000000000000       0x6e
+ .comment       0x0000000000000000       0x6e _build/bsp.o
+                                         0x6f (size before relaxing)
+ .comment       0x000000000000006e       0x6f _build/user_uart.o
+ .comment       0x000000000000006e       0x6f _build/user_twi.o
+ .comment       0x000000000000006e       0x6f _build/main.o
+ .comment       0x000000000000006e       0x6f _build/ble_advdata.o
+ .comment       0x000000000000006e       0x6f _build/system_nrf51.o
+ .comment       0x000000000000006e       0x6f _build/retarget.o
+ .comment       0x000000000000006e       0x6f _build/app_fifo.o
+ .comment       0x000000000000006e       0x6f _build/app_error.o
+ .comment       0x000000000000006e       0x6f _build/app_timer.o
+ .comment       0x000000000000006e       0x6f _build/nrf_delay.o
+ .comment       0x000000000000006e       0x6f _build/app_button.o
+ .comment       0x000000000000006e       0x6f _build/nrf_drv_rtc.o
+ .comment       0x000000000000006e       0x6f _build/app_uart_fifo.o
+ .comment       0x000000000000006e       0x6f _build/bmp180.o
+ .comment       0x000000000000006e       0x6f _build/nrf_drv_uart.o
+ .comment       0x000000000000006e       0x6f _build/nrf_drv_gpiote.o
+ .comment       0x000000000000006e       0x6f _build/nrf_drv_common.o
+ .comment       0x000000000000006e       0x6f _build/nrf_drv_twi.o
+ .comment       0x000000000000006e       0x6f _build/softdevice_handler.o
+
+.debug_frame    0x0000000000000000      0xd80
+ .debug_frame   0x0000000000000000       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000028       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000054       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000074       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000094       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-wf_pow.o)
+ .debug_frame   0x00000000000000cc       0x3c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_pow.o)
+ .debug_frame   0x0000000000000108       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-ef_sqrt.o)
+ .debug_frame   0x0000000000000134       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x0000000000000154       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .debug_frame   0x000000000000018c       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x00000000000001ac       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_finite.o)
+ .debug_frame   0x00000000000001cc       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_fpclassify.o)
+ .debug_frame   0x00000000000001ec       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_nan.o)
+ .debug_frame   0x000000000000020c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_scalbn.o)
+ .debug_frame   0x0000000000000238       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-sf_copysign.o)
+ .debug_frame   0x0000000000000258       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000278       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000298       0x30 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+ .debug_frame   0x00000000000002c8       0x3c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divsf3.o)
+ .debug_frame   0x0000000000000304       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqsf2.o)
+ .debug_frame   0x0000000000000330       0x30 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gesf2.o)
+ .debug_frame   0x0000000000000360       0x30 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(lesf2.o)
+ .debug_frame   0x0000000000000390       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .debug_frame   0x00000000000003c8       0x30 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subsf3.o)
+ .debug_frame   0x00000000000003f8       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+ .debug_frame   0x0000000000000418       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+ .debug_frame   0x0000000000000444       0x3c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(adddf3.o)
+ .debug_frame   0x0000000000000480       0x3c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(divdf3.o)
+ .debug_frame   0x00000000000004bc       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(eqdf2.o)
+ .debug_frame   0x00000000000004f4       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(gedf2.o)
+ .debug_frame   0x000000000000052c       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(ledf2.o)
+ .debug_frame   0x0000000000000564       0x3c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .debug_frame   0x00000000000005a0       0x38 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(subdf3.o)
+ .debug_frame   0x00000000000005d8       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(extendsfdf2.o)
+ .debug_frame   0x0000000000000604       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(truncdfsf2.o)
+ .debug_frame   0x0000000000000630       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000650       0x28 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000678       0x50 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000000000006c8      0x140 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000808       0x58 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000860       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000000000000088c       0x9c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x0000000000000928       0x54 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x000000000000097c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000009a8       0x90 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000a38       0x48 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000000a80       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000aac       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000000ad8       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000b04       0x68 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000b6c       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000b98       0x30 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000bc8       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x0000000000000be8       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000c14       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000c40       0x48 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000c88       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000000cb4       0x2c /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000000ce0       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
+ .debug_frame   0x0000000000000d00       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(fstat.o)
+ .debug_frame   0x0000000000000d20       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(isatty.o)
+ .debug_frame   0x0000000000000d40       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(lseek.o)
+ .debug_frame   0x0000000000000d60       0x20 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+
+.stab           0x0000000000000000       0x6c
+ .stab          0x0000000000000000       0x24 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
+ .stab          0x0000000000000024       0x18 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(fstat.o)
+                                         0x24 (size before relaxing)
+ .stab          0x000000000000003c       0x18 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(isatty.o)
+                                         0x24 (size before relaxing)
+ .stab          0x0000000000000054       0x18 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(lseek.o)
+                                         0x24 (size before relaxing)
+
+.stabstr        0x0000000000000000       0xe3
+ .stabstr       0x0000000000000000       0xe3 /Users/vitaliy/work/nRF51/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(close.o)
